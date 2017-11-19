@@ -1,0 +1,15 @@
+The val files are as follows:
+Please rename the desired val file to "grow_cut.val" to run with the desired initial values (image)
+grow_cut_SimpleShapes.val: Corresponds to the first example of simple shapes in the report
+grow_cut_Flower.val: Corresponds to the second example of a flower in the report
+grow_cut.val: Corresponds to the third and final example in the report with background labelling.
+
+Note on simulation time:
+The simulation can be run with infinite time. But for some images, this can take a long time for the model to 
+come to a steady state. Therefore, it can be run with a value of around 10 - 20 milliseconds. For images with
+large segments, the simulation time will determine the number of iterations run to label each segment. (eg: with
+simulation time = 10, ten iterations will be run and the maximum size of each segment will have a radius of 10 pixels
+from each starting label.)
+
+The SimpleShapes and SimpleShapes2 examples can be run with infinite time. For the flower example, a time of around 10 milliseconds 
+is recommended

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns="http://www.example.org/DEVSModeler" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <CoupledModelType xmi:id="_q9dI4MyxEeew4ahZPIEn5Q"/>
+  <notation:Diagram xmi:id="_q9dI4cyxEeew4ahZPIEn5Q" type="DEVS" element="_q9dI4MyxEeew4ahZPIEn5Q" name="rainfall_simulator.madesigner" measurementUnit="Pixel">
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_q9dI4syxEeew4ahZPIEn5Q"/>
+  </notation:Diagram>
+</xmi:XMI>
